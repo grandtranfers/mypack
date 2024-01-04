@@ -10,7 +10,7 @@ Este paquete sirve para realizar calculos referentes con la estimación
 de modelos de regresión lineal simple
 
 ## Installation
-
+prueba21:58
 You can install the development version of mypack from
 [GitHub](https://github.com) with:
 
