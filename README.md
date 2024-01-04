@@ -1,0 +1,2 @@
+# mypack
+practicas de estadistica
